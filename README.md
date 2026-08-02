@@ -1,3 +1,3 @@
 # Customer_Behavior_Analysis
 
-End to End Data Analytics Project
+data analytics project showcasing customer behavior analysis using pthon, sql and power Bi
