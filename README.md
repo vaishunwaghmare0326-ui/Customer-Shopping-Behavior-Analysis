@@ -1,3 +1,3 @@
-# PowerBi_dashboard_project
+# Customer_Behavior_Analysis
 
 End to End Data Analytics Project
