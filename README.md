@@ -111,6 +111,7 @@ Built an interactive dashboard featuring:
 
 ## Dashboard
 
+![Customer Behavior Dashboard](Screenshot%202026-08-01%20220318.png)
 The Power BI dashboard provides interactive visualizations to help understand:
 
 * Overall sales performance
